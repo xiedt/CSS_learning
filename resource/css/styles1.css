@@ -9,7 +9,7 @@ span{
     font-weight:bold;  /* 字体加粗 */
 }
 body{
-    background-image: url(../images/12.jpg);
+    /* background-image: url(../images/12.jpg); */
     background-repeat: repeat-x;
     background-position:top;
     background-attachment: fixed;
